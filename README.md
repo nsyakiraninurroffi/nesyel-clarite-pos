@@ -1,6 +1,6 @@
 <div align="center">
 
-<video src="public/videos/nesyel_logos.mp4" width="600" controls="controls"></video>
+<video src="https://raw.githubusercontent.com/nsyakiraninurroffi/nesyel-clarite-pos/main/public/videos/nesyel_logos.mp4" width="600" controls="controls"></video>
 
 # ✨ NESYÈL CLARITÉ — POS System
 
