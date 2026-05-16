@@ -1,6 +1,6 @@
 <div align="center">
 
-<video src="public/videos/nesyel_logos.mp4" autoplay loop muted playsinline width="600" style="border-radius:16px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-bottom: 20px;"></video>
+<video src="public/videos/nesyel_logos.mp4" width="600" controls="controls"></video>
 
 # ✨ NESYÈL CLARITÉ — POS System
 
