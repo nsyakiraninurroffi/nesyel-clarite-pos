@@ -15,19 +15,6 @@
 
 ---
 
-## 🎓 Informasi Proyek (Tugas Sekolah)
-
-> **Tugas Aplikasi POS (Point of Sale)** <br>
-> Repositori ini dibuat untuk memenuhi tugas mata pelajaran produktif.
-
-- **Judul Proyek:** LAPORAN DOKUMENTASI APLIKASI - NESYÈL CLARITÉ POS System
-- **Nama Pengembang:** Nesya Kirani Nurroffi (Absen 27)
-- **Kelas / Program Keahlian:** XI PPLG-RPL 2 / Pengembangan Perangkat Lunak & Gim (PPLG)
-- **Kepala Program Keahlian:** Pak Yaqub Hadi Permana
-- **Link Repository:** [github.com/nsyakiraninurroffi/nesyel-clarite-pos](https://github.com/nsyakiraninurroffi/nesyel-clarite-pos)
-
----
-
 ## 🌸 about this project
 
 **NESYÈL CLARITÉ** adalah sistem Point of Sale (POS) berbasis web yang dirancang khusus untuk toko skincare & makeup. dibangun dengan Laravel 12, sistem ini menggabungkan estetika modern dengan fungsionalitas kasir yang lengkap — dari manajemen produk, kasir real-time, laporan pendapatan harian, hingga dashboard analitik dengan grafik interaktif.
@@ -107,7 +94,7 @@ php artisan serve
 
 ## 📸 screenshots & documentation
 
-> *Laporan Dokumentasi Aplikasi lengkap (PDF) beserta screenshot dari seluruh modul telah disusun dan tersedia untuk proses penilaian.*
+> *Laporan Dokumentasi Aplikasi lengkap (PDF) beserta screenshot dari seluruh modul telah disusun dan tersedia.*
 
 ---
 
